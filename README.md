@@ -1,4 +1,4 @@
-<img src="images/ExpenseTracker.png"/>
+<img src="Images/ExpenseTracker.png"/>
 
 # 📊 Expense Tracker 📊
 
