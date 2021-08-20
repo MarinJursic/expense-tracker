@@ -19,3 +19,5 @@ Expense Tracker lets you add income or expense in various different categories f
 - Material-UI
 
 - Speechly
+
+- Local Storage
